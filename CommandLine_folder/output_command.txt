@@ -20,7 +20,7 @@ Let's display the 20 most popular pair of heroes:
     374 CAPTAINAMERICA-SCARLETWITCH/WANDA
     372 IRONMAN/TONYSTARK-SCARLETWITCH/WANDA
 
-Number of comics per hero:
+Number of comics per hero (First 20):
 1577 : SPIDER-MAN/PETER PAR
 1334 : CAPTAIN AMERICA
 1150 : IRON MAN/TONY STARK
