@@ -7,5 +7,5 @@ Simona De Risi
 
 Mandara Angelo
 
-The repository has the usual `main.ipynb` file with the main answers and the usual `CommandLine.sh` file with the answer to the command line question.
+The repository has the usual `main.ipynb`. In addition, there is the 'Command_Line_folder' containing the .sh file and its output in .txt format from question 4.
 In the 'Plot' folder there are two images related to Visualisation3
